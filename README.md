@@ -12,9 +12,9 @@
  # [<img src="images/6.jpg" width="570" height="126">](https://tryhackme.com/room/cyberthreatintel)  - Room-6
  #  
  #  
-  # <img src="images/osint.jpeg" width="100" height="100">  OSINT CTFs
+  # <img src="images/osint.jpeg" width="100" height="100">  OSINT CTFs ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
   
-  ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+  
  
  # [<img src="images/7.jpg">](https://tryhackme.com/room/ohsint)            - CTF-1
  # [<img src="images/8.jpg">](https://tryhackme.com/room/searchlightosint)  - CTF-2
