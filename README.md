@@ -1,7 +1,7 @@
 # Kerberos-Path
 Kerberos THM Path (Osint+Malware)
 
-PATH:
+
 <img src="images/OSINT.png">
   [<img src="images/1.jpg">](https://tryhackme.com/room/googledorking)
   [<img src="images/2.jpg">](https://tryhackme.com/room/threatinteltools)
@@ -15,4 +15,13 @@ PATH:
   [<img src="images/7.jpg">](https://tryhackme.com/room/ohsint)
   [<img src="images/8.jpg">](https://tryhackme.com/room/searchlightosint)
   
-  
+<img src="images/Malware.png">
+  [<img src="images/9.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/10.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/11.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/12.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/13.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/14.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/15.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/16.jpg">](https://tryhackme.com/room/googledorking)
+  [<img src="images/17.jpg">](https://tryhackme.com/room/googledorking)
