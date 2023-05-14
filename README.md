@@ -12,7 +12,7 @@
  # [<img src="images/6.jpg" width="570" height="126">](https://tryhackme.com/room/cyberthreatintel)  - Room-6
  #  
  #  
- #  ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `OSINT CTFs`
+ #  ![#A020F0](https://placehold.co/15x15/1589F0/1589F0.png) `OSINT CTFs`
   
   
  
