@@ -1,5 +1,5 @@
 
-# Kerberos THM Path (Osint+Malware)
+#  ![#A020F0](https://placehold.co/15x15/1589F0/1589F0.png) `Kerberos THM Path (Osint+Malware)'
 
 
 <img src="images/OSINT.png">
@@ -12,7 +12,7 @@
  # [<img src="images/6.jpg" width="570" height="126">](https://tryhackme.com/room/cyberthreatintel)  - Room-6
  #  
  #  
- #  ![#A020F0](https://placehold.co/15x15/1589F0/1589F0.png) `OSINT CTFs`
+ #  ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) `OSINT CTFs`
   
   
  
