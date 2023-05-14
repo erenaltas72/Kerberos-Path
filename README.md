@@ -5,11 +5,11 @@
 <img src="images/OSINT.png">
 
   [<img src="images/1.jpg" width="550" height="126">](https://tryhackme.com/room/googledorking)
-  [<img src="images/2.jpg">](https://tryhackme.com/room/threatinteltools)
-  [<img src="images/3.jpg">](https://tryhackme.com/room/shodan)
-  [<img src="images/4.jpg">](https://tryhackme.com/room/geolocatingimages)
-  [<img src="images/5.jpg">](https://tryhackme.com/room/somesint)
-  [<img src="images/6.jpg">](https://tryhackme.com/room/cyberthreatintel)
+  [<img src="images/2.jpg" width="550" height="126">](https://tryhackme.com/room/threatinteltools)
+  [<img src="images/3.jpg" width="550" height="126">](https://tryhackme.com/room/shodan)
+  [<img src="images/4.jpg" width="550" height="126">](https://tryhackme.com/room/geolocatingimages)
+  [<img src="images/5.jpg" width="550" height="126">](https://tryhackme.com/room/somesint)
+  [<img src="images/6.jpg" width="550" height="126">](https://tryhackme.com/room/cyberthreatintel)
 
  # <img src="images/osint.jpeg" width="100" height="100">  OSINT CTFs 
   
