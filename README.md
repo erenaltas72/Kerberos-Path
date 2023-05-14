@@ -15,11 +15,11 @@ Kerberos THM Path (Osint+Malware)
   
   [<img src="images/7.jpg">](https://tryhackme.com/room/ohsint)
   [<img src="images/8.jpg">](https://tryhackme.com/room/searchlightosint)
-  .
-  .
-  .
-  .
-  .
+  \n
+  \n
+  \n
+  \n
+  \n
 <img src="images/Malware.png">
 
   [<img src="images/9.jpg">](https://tryhackme.com/room/googledorking)
