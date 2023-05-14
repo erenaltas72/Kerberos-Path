@@ -2,7 +2,7 @@
 Kerberos THM Path (Osint+Malware)
 
 PATH:
-
+  [<img src="images/OSINT.png">]
   [<img src="images/1.jpg">](https://tryhackme.com/room/googledorking)
   [<img src="images/2.jpg">](https://tryhackme.com/room/threatinteltools)
   [<img src="images/3.jpg">](https://tryhackme.com/room/shodan)
