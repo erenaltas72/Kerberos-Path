@@ -4,8 +4,8 @@
 
 <img src="images/OSINT.png">
 
-  [<img src="images/1.jpg" width="550" height="126">](https://tryhackme.com/room/googledorking)
-  [<img src="images/2.jpg" width="550" height="126">](https://tryhackme.com/room/threatinteltools)
+  [<img src="images/1.jpg" width="580" height="126">](https://tryhackme.com/room/googledorking)
+  [<img src="images/2.jpg" width="580" height="126">](https://tryhackme.com/room/threatinteltools)
   [<img src="images/3.jpg" width="550" height="126">](https://tryhackme.com/room/shodan)
   [<img src="images/4.jpg" width="550" height="126">](https://tryhackme.com/room/geolocatingimages)
   [<img src="images/5.jpg" width="550" height="126">](https://tryhackme.com/room/somesint)
