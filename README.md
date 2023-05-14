@@ -1,5 +1,5 @@
 
-#  ![#A020F0](https://placehold.co/15x15/1589F0/1589F0.png) `Kerberos THM Path (Osint+Malware)'
+ # ![#A020F0](https://placehold.co/15x15/1589F0/1589F0.png) `Kerberos THM Path (Osint+Malware)`
 
 
 <img src="images/OSINT.png">
