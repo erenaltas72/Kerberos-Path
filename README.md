@@ -10,7 +10,7 @@ PATH:
   [<img src="images/5.jpg">](https://tryhackme.com/room/somesint)
   [<img src="images/6.jpg">](https://tryhackme.com/room/cyberthreatintel)
   
-  <h12>OSINT CTFs   </h12><img src="images/osint.jpeg">
+  <h32>OSINT CTFs   </h32><img src="images/osint.jpeg">
   
   [<img src="images/7.jpg">](https://tryhackme.com/room/ohsint)
   [<img src="images/8.jpg">](https://tryhackme.com/room/searchlightosint)
